@@ -18,8 +18,7 @@
 |:--:|:-:|:-:|:-:|-|:-:|:-:|:-:|
 |[001](https://github.com/sjju/ZY-LeetCode/tree/master/LeetCode/001/001.md)|两数之和|E|2018-6-1|成都|Y|||
 |[002](https://github.com/sjju/ZY-LeetCode/tree/master/LeetCode/002/002.md)|两数相加|E|2018-6-2|成都|Y|||
-|[003](https://github.com/sjju/ZY-LeetCode/tree/master/LeetCode/003/003.md)|该自己的题目，网址改题号号|E|2018-6-2|成都|Y|||
-怎么打开这个
+
 
 ## 说明
 
