@@ -14,7 +14,7 @@
 
 ## 已刷题一览表
 
-|题号|题目名称|难度|第一次完成时间|地点|C++|Java|Python|
+|题号|题目名称|难度|第一次完成时间|地点|C|Java|Python|
 |:--:|:-:|:-:|:-:|-|:-:|:-:|:-:|
 |[001](https://github.com/sjju/ZY-LeetCode/tree/master/LeetCode/001/001.md)|两数之和|E|2018-5-29|成都|Y|||
 |[002](https://github.com/sjju/ZY-LeetCode/tree/master/LeetCode/002/002.md)|两数相加|E|2018-5-30|成都|Y|||
