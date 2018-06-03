@@ -1,6 +1,6 @@
 # Zhao Xinyu's solutions for leetcode
 
-赵鑫宇Leetcode-cn题解报告
+赵鑫宇Leetcode-cn题解报告，蛤
 
 开始于：2018-3-16, 成都
 
