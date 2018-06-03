@@ -1,6 +1,6 @@
-# Zhang Yang's solutions for leetcode
+# Zhao Xinyu's solutions for leetcode
 
-开始于：2018-3-16, 北京
+开始于：2018-3-16, 成都
 
 结束于：--,--
 
@@ -8,16 +8,13 @@
 
 |Easy|Medium|Hard|**SUM**|
 |:-:|:-:|:-:|:-:|
-|3|1|0|4|
+|2|0|0|
 
 ## 已刷题一览表
 
-|题号|题目名称|难度|第一次完成时间|地点|C++|Java|Python|English|
+|题号|题目名称|难度|第一次完成时间|地点|C++|Java|Python|
 |:--:|:-:|:-:|:-:|-|:-:|:-:|:-:|:-:|
-|[561](https://github.com/zyzisyz/ZY-LeetCode/blob/master/LeetCode/561/561.md)|数组拆分 I|E|2018-3-16|北京|Y|||Y|
-|[001](https://github.com/zyzisyz/ZY-LeetCode/tree/master/LeetCode/001/001.md)|两数之和|E|2018-5-29||Y|||N|
-|[002](https://github.com/zyzisyz/ZY-LeetCode/tree/master/LeetCode/002/002.md)|两数相加|M|2018-5-30||Y|||N|
-|[007](https://github.com/zyzisyz/ZY-LeetCode/tree/master/LeetCode/007/007.md)|反转整数|E|2018-5-31||Y|||N|
+|[001](https://github.com/sjju/ZY-LeetCode/tree/master/LeetCode/001/001.md)|两数之和|E|2018-5-29|成都|Y|||
 
 ## 说明
 
